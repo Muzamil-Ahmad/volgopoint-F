@@ -1,0 +1,3 @@
+export const GET_NAV_ITEMS = 'GET_NAV_ITEMS';
+
+export const GET_CAROUSAL_PRODUCTS = 'GET_CAROUSAL_PRODUCTS';

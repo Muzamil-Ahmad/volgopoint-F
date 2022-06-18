@@ -1,0 +1,3 @@
+/* eslint-disable */
+export const GET_DEFAULT_ADDRESS_TRUE_FALSE = 'GET_DEFAULT_ADDRESS_TRUE_FALSE';
+export const CLEAR_ORDER = 'CLEAR_ORDER';

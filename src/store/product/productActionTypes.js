@@ -1,0 +1,4 @@
+/* eslint-disable */
+export const GET_SINGLE_PRODUCT_FOR_BUYER = "GET_SINGLE_PRODUCT_FOR_BUYER";
+export const GET_PRODUCT_REVIEWS_FOR_BUYER = "GET_PRODUCT_REVIEWS_FOR_BUYER";
+/* eslint-enable */
